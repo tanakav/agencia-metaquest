@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+
+:root{
+    --dark-primary-color: #5D4037; 
+    --default-primary-color: #795548;
+    --light-primary-color: #D7CCC8;
+    --text-primary-color: #FFFFFF; 
+    --accent-color: #FF9800; 
+    --primary-text-color: #212121; 
+    --secondary-text-color: #757575; 
+    --divider-color: #BDBDBD; 
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.navbar-brand img{
+    width: 150px;
+}
+
+.carousel-item img{
+  width: 100%;
+  height: 800px;
+}
+
